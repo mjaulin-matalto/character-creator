@@ -1,0 +1,7 @@
+.greybar {
+    background-color: hsl(195, 20%, 86%);
+    position: fixed;
+    bottom: 0;
+    height: 400px;
+    width: 100%;
+}
